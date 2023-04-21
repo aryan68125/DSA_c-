@@ -21,3 +21,5 @@
 | long      | 8 |
 | float      | 4 |
 | double      | 8 |  
+##### Variables and constants
+![](util_images/variables.png)
