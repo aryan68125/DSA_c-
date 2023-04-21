@@ -14,8 +14,10 @@
 ##### Flow chart to print the prime numbers from 1 to n
 ![](util_images/print_n_prime_number_flow_chart.png)
 ### c++ data types
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| Data types  | size int bytes |
+| :------------ |:---------------:|
+| char      | 1 |  
+| int       | 4 |
+| long      | 8 |
+| float      | 4 |
+| double      | 8 |  
