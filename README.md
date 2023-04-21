@@ -21,5 +21,7 @@
 | long      | 8 |
 | float      | 4 |
 | double      | 8 |  
+##### Primitive data types
+![](util_images/datatypes_chart_ptimitve.png)
 ##### Variables and constants
 ![](util_images/variables.png)
