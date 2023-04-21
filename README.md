@@ -25,3 +25,5 @@
 ![](util_images/datatypes_chart_ptimitve.png)
 ##### Variables and constants
 ![](util_images/variables.png)
+##### ASCII table
+![](util_images/ASCII_table.png)
