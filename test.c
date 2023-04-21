@@ -1,7 +1,6 @@
-#include <stdio.h>
-
-int main() {
-
-    printf("welcome to geeks for geeks");
-    return 0;
+#include <iostream>
+using namespace std;
+int32_t main()
+{
+  cout << "Hello world \n";
 }
