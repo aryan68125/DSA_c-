@@ -9,3 +9,5 @@
 ![](util_images/compare_two_numbers_flow_chart.png)
 ##### Flow chart to find The number is prime or not
 ![](util_images/prime_number_flow_chart.png)
+##### Flow chart to print the prime numbers from 1 to n
+![](util_images/print_n_prime_number_flow_chart.png)
